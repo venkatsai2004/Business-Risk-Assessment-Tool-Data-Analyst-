@@ -17,7 +17,7 @@ Badge [source](https://shields.io/)
 
 ## Authors
 
-- [@semasuka](https://www.github.com/semasuka)
+- [@venkat sai](https://www.github.com/venkatsai2004)
 
 ## Table of Contents
 
